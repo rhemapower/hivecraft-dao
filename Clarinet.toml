@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/dao-core.clar"
 depends_on = []
 
+[contracts.dao-token]
+path = "contracts/dao-token.clar"
+depends_on = []
+
 [contracts.dao-treasury]
 path = "contracts/dao-treasury.clar"
 depends_on = []
